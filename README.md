@@ -1,2 +1,2 @@
 # HUBER-RILS
-Huber Loss via Reweighed Iterative Least Squares for robust covariance estimation
+Implementation of Reweighted Iterative Least Squares for Huber Loss applied to robust covariance estimation
